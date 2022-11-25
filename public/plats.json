@@ -1,0 +1,33 @@
+{   
+    "plats": 
+    [ 
+        { 
+        "id":1,
+        "soustitre": "Pok'Fisch'",
+        "texte": "At enim aucacis eget. Condimenpellesque risus, tincidunt. Pro morbi tempor, curitur neque quam convallis.",
+        "image": "plat-poke-bowl.jpg",
+        "button": "Achetez"
+        },
+        { 
+        "id":2,
+        "soustitre": "Pok'Emm",
+        "texte": "At enim aucacis eget. Condimenpellesque risus, tincidunt. Pro morbi tempor, curitur neque quam convallis.",
+        "image": "plat-poke-bowl2.jpg",
+        "button": "Achetez"
+        }, 
+        { 
+        "id":3,
+        "soustitre": "Pok'Beef",
+        "texte": "At enim aucacis eget. Condimenpellesque risus, tincidunt. Pro morbi tempor, curitur neque quam convallis.",
+        "image": "plat-poke-bowl.jpg",
+        "button": "Achetez"
+        },
+        { 
+        "id":4,
+        "soustitre": "Pok'Vegan",
+        "texte": "At enim aucacis eget. Condimenpellesque risus, tincidunt. Pro morbi tempor, curitur neque quam convallis.",
+        "image": "plat-poke-bowl2.jpg",
+        "button": "Achetez"
+        }
+    ]
+}
